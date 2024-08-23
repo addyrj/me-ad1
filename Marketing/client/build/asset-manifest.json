@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b08b0456.css",
+    "main.js": "/static/js/main.f641c665.js",
+    "static/js/787.791c8dee.chunk.js": "/static/js/787.791c8dee.chunk.js",
+    "static/media/Sign up page 3.png": "/static/media/Sign up page 3.ce52c491bae2caa5bfb3.png",
+    "static/media/Slice 3.png": "/static/media/Slice 3.b1a2a486629d1c83d481.png",
+    "static/media/whatsapp.webp": "/static/media/whatsapp.e1e38a97e3cc95094d54.webp",
+    "index.html": "/index.html",
+    "main.b08b0456.css.map": "/static/css/main.b08b0456.css.map",
+    "main.f641c665.js.map": "/static/js/main.f641c665.js.map",
+    "787.791c8dee.chunk.js.map": "/static/js/787.791c8dee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b08b0456.css",
+    "static/js/main.f641c665.js"
+  ]
+}
